@@ -903,7 +903,7 @@ article a {
 
 article a:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #525f7f;
     text-decoration: underline;
 }
 
@@ -1326,7 +1326,7 @@ thead {
 
 .chip-container .chip-active {
     color: #FFF !important;
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%) !important;
+    background: linear-gradient(to bottom right, #525f7f 0%, #525f7f 100%) !important;
     box-shadow: 2px 5px 10px #aaa !important;
 }
 
@@ -1931,7 +1931,7 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%);
+    background: linear-gradient(to bottom right, #525f7f 0%, #525f7f 100%);
     width: 48px;
     height: 48px;
 }
